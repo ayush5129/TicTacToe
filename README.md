@@ -1,4 +1,4 @@
-<font size = "6">**Tic Tac Toe Game**</font> <br>
+<font size = "20">**Tic Tac Toe Game**</font> <br>
 **Introduction** <br>
 
 This is a simple implementation of the classic Tic Tac Toe game built using HTML, CSS, and JavaScript. It provides a two-player gaming experience where players can take turns making their moves directly in the browser. The game continues until there's a winner or a draw.
